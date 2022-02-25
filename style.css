@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 500px;
+}
+
+#font{
+    color: rgb(221, 20, 87);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+.button{
+    background-color:rgb(221, 20, 87);
+    color: white;
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+#middle{
+    margin-top: 10%;
+}
+
+.center{
+    text-align: center;
+    margin-top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.half{
+    width: 20%;
+    height: 30%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 5%;
+    padding: 3%;
+}
+.half img{
+    width: 100%;
+}
+.cen{
+    text-align: center;
+
+}
+#length{
+    width: 600px;
+    height: 100px;
+}
+#color-change{
+    color: dimgray;
+}
+.top-class{
+    background-image: url("/images/head-bg.png");
+    width: 1500px;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.middle-class{
+    background-image: url("/images/bio-bg.png");
+    width: 1500px;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.next-class{
+    background-image: url("/images/latestwork-bg.png");
+    width: 1500px;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.bottom-class{
+    background-image: url("/images/foot-bg.png");
+    width: 1500px;
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
